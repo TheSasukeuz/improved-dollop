@@ -1,77 +1,39 @@
-[23:14:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:14:58] [ServerMain/INFO]: Loaded 7 recipes
-[23:14:58] [ServerMain/INFO]: Loaded 1271 advancements
-[23:14:59] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[23:14:59] [Server thread/INFO]: Loading properties
-[23:14:59] [Server thread/INFO]: Default game type: SURVIVAL
-[23:14:59] [Server thread/INFO]: Generating keypair
-[23:14:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:14:59] [Server thread/INFO]: Using epoll channel type
-[23:15:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:15:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:15:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:15:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:15:00] [Server thread/INFO]: Preparing level "world"
-[23:15:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:15:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:15:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:15:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:15:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:15:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:15:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:15:10] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[23:15:11] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[23:15:11] [Worker-Main-1/INFO]: Preparing spawn area: 3%
-[23:15:12] [Worker-Main-3/INFO]: Preparing spawn area: 5%
-[23:15:12] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[23:15:13] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[23:15:13] [Worker-Main-1/INFO]: Preparing spawn area: 7%
-[23:15:14] [Worker-Main-1/INFO]: Preparing spawn area: 9%
-[23:15:14] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[23:15:15] [Worker-Main-3/INFO]: Preparing spawn area: 10%
-[23:15:15] [Worker-Main-1/INFO]: Preparing spawn area: 11%
-[23:15:16] [Worker-Main-1/INFO]: Preparing spawn area: 13%
-[23:15:16] [Worker-Main-1/INFO]: Preparing spawn area: 15%
-[23:15:17] [Worker-Main-1/INFO]: Preparing spawn area: 17%
-[23:15:17] [Worker-Main-1/INFO]: Preparing spawn area: 19%
-[23:15:18] [Worker-Main-1/INFO]: Preparing spawn area: 21%
-[23:15:18] [Worker-Main-2/INFO]: Preparing spawn area: 22%
-[23:15:19] [Worker-Main-1/INFO]: Preparing spawn area: 24%
-[23:15:19] [Worker-Main-3/INFO]: Preparing spawn area: 24%
-[23:15:20] [Worker-Main-2/INFO]: Preparing spawn area: 25%
-[23:15:20] [Worker-Main-3/INFO]: Preparing spawn area: 26%
-[23:15:21] [Worker-Main-2/INFO]: Preparing spawn area: 29%
-[23:15:21] [Worker-Main-2/INFO]: Preparing spawn area: 31%
-[23:15:22] [Worker-Main-3/INFO]: Preparing spawn area: 33%
-[23:15:22] [Worker-Main-2/INFO]: Preparing spawn area: 35%
-[23:15:23] [Worker-Main-2/INFO]: Preparing spawn area: 38%
-[23:15:23] [Worker-Main-3/INFO]: Preparing spawn area: 41%
-[23:15:24] [Worker-Main-1/INFO]: Preparing spawn area: 43%
-[23:15:24] [Worker-Main-3/INFO]: Preparing spawn area: 44%
-[23:15:25] [Worker-Main-3/INFO]: Preparing spawn area: 45%
-[23:15:25] [Worker-Main-1/INFO]: Preparing spawn area: 48%
-[23:15:26] [Worker-Main-3/INFO]: Preparing spawn area: 50%
-[23:15:26] [Worker-Main-2/INFO]: Preparing spawn area: 53%
-[23:15:27] [Worker-Main-3/INFO]: Preparing spawn area: 55%
-[23:15:27] [Worker-Main-3/INFO]: Preparing spawn area: 58%
-[23:15:28] [Worker-Main-2/INFO]: Preparing spawn area: 62%
-[23:15:28] [Worker-Main-2/INFO]: Preparing spawn area: 64%
-[23:15:29] [Worker-Main-2/INFO]: Preparing spawn area: 66%
-[23:15:29] [Worker-Main-3/INFO]: Preparing spawn area: 68%
-[23:15:30] [Worker-Main-3/INFO]: Preparing spawn area: 70%
-[23:15:30] [Worker-Main-1/INFO]: Preparing spawn area: 73%
-[23:15:31] [Worker-Main-2/INFO]: Preparing spawn area: 76%
-[23:15:31] [Worker-Main-2/INFO]: Preparing spawn area: 79%
-[23:15:32] [Worker-Main-1/INFO]: Preparing spawn area: 83%
-[23:15:32] [Worker-Main-2/INFO]: Preparing spawn area: 85%
-[23:15:33] [Worker-Main-3/INFO]: Preparing spawn area: 88%
-[23:15:33] [Worker-Main-1/INFO]: Preparing spawn area: 92%
-[23:15:34] [Worker-Main-1/INFO]: Preparing spawn area: 94%
-[23:15:34] [Worker-Main-3/INFO]: Preparing spawn area: 98%
-[23:15:35] [Server thread/INFO]: Time elapsed: 27649 ms
-[23:15:35] [Server thread/INFO]: Done (34.384s)! For help, type "help"
-[23:17:11] [Server thread/INFO]: Narutouz201107[/127.159.158.136:46019] logged in with entity id 305 at (35.5, 69.0, -73.5)
-[23:17:11] [Server thread/INFO]: Narutouz201107 joined the game
-[23:18:17] [Server thread/INFO]: Narutouz201107 lost connection: Disconnected
-[23:18:17] [Server thread/INFO]: Narutouz201107 left the game
+[23:29:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:29:17] [ServerMain/INFO]: Loaded 7 recipes
+[23:29:17] [ServerMain/INFO]: Loaded 1271 advancements
+[23:29:18] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[23:29:18] [Server thread/INFO]: Loading properties
+[23:29:18] [Server thread/INFO]: Default game type: SURVIVAL
+[23:29:18] [Server thread/INFO]: Generating keypair
+[23:29:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:29:18] [Server thread/INFO]: Using epoll channel type
+[23:29:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:29:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:29:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:29:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:29:18] [Server thread/INFO]: Preparing level "world"
+[23:29:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:29:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:29:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:29:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:29:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:29:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:29:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:29:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:29:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[23:29:25] [Worker-Main-1/INFO]: Preparing spawn area: 54%
+[23:29:25] [Server thread/INFO]: Time elapsed: 4267 ms
+[23:29:25] [Server thread/INFO]: Done (7.197s)! For help, type "help"
+[23:29:30] [Server thread/INFO]: Narutouz201107[/127.159.158.136:47023] logged in with entity id 291 at (33.758037291313585, 69.0, -76.07048451237449)
+[23:29:30] [Server thread/INFO]: Narutouz201107 joined the game
+[23:29:33] [Server thread/INFO]: Narutouz201107 lost connection: Disconnected
+[23:29:33] [Server thread/INFO]: Narutouz201107 left the game
+[23:29:39] [Server thread/INFO]: Narutouz201107[/127.159.158.136:52467] logged in with entity id 292 at (33.758037291313585, 69.0, -76.07048451237449)
+[23:29:39] [Server thread/INFO]: Narutouz201107 joined the game
+[23:31:12] [Server thread/INFO]: Narutouz201107 lost connection: Disconnected
+[23:31:12] [Server thread/INFO]: Narutouz201107 left the game
+[23:31:17] [Server thread/INFO]: Narutouz201107[/127.159.158.136:54535] logged in with entity id 571 at (33.071793111440044, 71.0, -99.53648337265855)
+[23:31:17] [Server thread/INFO]: Narutouz201107 joined the game
+[23:31:22] [Server thread/INFO]: Made Narutouz201107 a server operator
+[23:31:26] [Server thread/INFO]: Narutouz201107 lost connection: Disconnected
+[23:31:26] [Server thread/INFO]: Narutouz201107 left the game

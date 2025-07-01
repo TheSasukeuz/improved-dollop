@@ -1,19 +1,27 @@
 {
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-07-01 23:17:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-07-01 23:17:11 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_badlands": "2025-07-01 23:17:18 +0000",
+      "minecraft:desert": "2025-07-01 23:17:12 +0000",
+      "minecraft:jungle": "2025-07-01 23:17:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-07-01 23:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-01 23:17:53 +0000"
     },
     "done": true
   },
@@ -29,13 +37,47 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "minecraft:wooded_badlands": "2025-07-01 23:17:18 +0000",
-      "minecraft:desert": "2025-07-01 23:17:12 +0000",
-      "minecraft:jungle": "2025-07-01 23:17:26 +0000"
+      "has_stick": "2025-07-01 23:30:16 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-07-01 23:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-07-01 23:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-07-01 23:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-07-01 23:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-07-01 23:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-07-01 23:30:16 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
