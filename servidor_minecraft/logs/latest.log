@@ -1,39 +1,68 @@
-[23:29:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:29:17] [ServerMain/INFO]: Loaded 7 recipes
-[23:29:17] [ServerMain/INFO]: Loaded 1271 advancements
-[23:29:18] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[23:29:18] [Server thread/INFO]: Loading properties
-[23:29:18] [Server thread/INFO]: Default game type: SURVIVAL
-[23:29:18] [Server thread/INFO]: Generating keypair
-[23:29:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:29:18] [Server thread/INFO]: Using epoll channel type
-[23:29:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:29:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:29:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:29:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:29:18] [Server thread/INFO]: Preparing level "world"
-[23:29:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:29:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:29:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:29:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:29:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:29:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:29:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:29:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:29:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:29:25] [Worker-Main-1/INFO]: Preparing spawn area: 54%
-[23:29:25] [Server thread/INFO]: Time elapsed: 4267 ms
-[23:29:25] [Server thread/INFO]: Done (7.197s)! For help, type "help"
-[23:29:30] [Server thread/INFO]: Narutouz201107[/127.159.158.136:47023] logged in with entity id 291 at (33.758037291313585, 69.0, -76.07048451237449)
-[23:29:30] [Server thread/INFO]: Narutouz201107 joined the game
-[23:29:33] [Server thread/INFO]: Narutouz201107 lost connection: Disconnected
-[23:29:33] [Server thread/INFO]: Narutouz201107 left the game
-[23:29:39] [Server thread/INFO]: Narutouz201107[/127.159.158.136:52467] logged in with entity id 292 at (33.758037291313585, 69.0, -76.07048451237449)
-[23:29:39] [Server thread/INFO]: Narutouz201107 joined the game
-[23:31:12] [Server thread/INFO]: Narutouz201107 lost connection: Disconnected
-[23:31:12] [Server thread/INFO]: Narutouz201107 left the game
-[23:31:17] [Server thread/INFO]: Narutouz201107[/127.159.158.136:54535] logged in with entity id 571 at (33.071793111440044, 71.0, -99.53648337265855)
-[23:31:17] [Server thread/INFO]: Narutouz201107 joined the game
-[23:31:22] [Server thread/INFO]: Made Narutouz201107 a server operator
-[23:31:26] [Server thread/INFO]: Narutouz201107 lost connection: Disconnected
-[23:31:26] [Server thread/INFO]: Narutouz201107 left the game
+[03:46:34] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[03:46:34] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[03:46:34] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:46:34] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[03:46:35] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
+[03:46:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:46:40] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[03:46:40] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[03:46:42] [ServerMain/INFO]: No existing world data, creating new world
+[03:46:43] [ServerMain/INFO]: Loaded 1290 recipes
+[03:46:43] [ServerMain/INFO]: Loaded 1399 advancements
+[03:46:44] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:46:44] [Server thread/INFO]: Loading properties
+[03:46:44] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[03:46:44] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 8641ms.
+[03:46:45] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:46:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:46:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:46:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[03:46:45] [Server thread/INFO]: Default game type: SURVIVAL
+[03:46:45] [Server thread/INFO]: Generating keypair
+[03:46:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:46:46] [Server thread/INFO]: Using epoll channel type
+[03:46:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:46:46] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[03:46:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:46:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:46:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:46:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:46:46] [Server thread/INFO]: Preparing level "world"
+[03:46:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:47:07] [Server thread/INFO]: Time elapsed: 8031 ms
+[03:47:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:47:09] [Server thread/INFO]: Time elapsed: 2108 ms
+[03:47:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:47:10] [Server thread/INFO]: Time elapsed: 576 ms
+[03:47:10] [Server thread/INFO]: [spark] Starting background profiler...
+[03:47:10] [Server thread/INFO]: Done preparing level "world" (24.787s)
+[03:47:10] [Server thread/INFO]: Running delayed init tasks
+[03:47:10] [Server thread/INFO]: Done (37.498s)! For help, type "help"
+[03:47:10] [Server thread/INFO]: *************************************************************************************
+[03:47:10] [Server thread/INFO]: This is the first time you're starting this server.
+[03:47:10] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[03:47:10] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[03:47:10] [Server thread/INFO]: *************************************************************************************
+[03:47:10] [Server thread/INFO]: Timings Reset
+[03:50:48] [Server thread/INFO]: Stopping server
+[03:50:48] [Server thread/INFO]: Saving players
+[03:50:48] [Server thread/INFO]: Saving worlds
+[03:50:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:50:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:50:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:50:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:50:49] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 49 entity chunks, 1 poi chunks in world 'world' in 1.06s
+[03:50:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:50:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:50:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:50:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:50:49] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.40s
+[03:50:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:50:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:50:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:50:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:50:50] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.33s
+[03:50:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:50:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:50:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:50:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
